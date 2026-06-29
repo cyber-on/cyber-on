@@ -59,3 +59,6 @@ Dapatkan informasi lengkap dan lakukan pemesanan melalui [Mahardhika Travel](htt
 
 ---
 *Disclaimer: Artikel ini disusun sebagai panduan umum untuk pelanggan. Selalu periksa aturan lalu lintas terbaru dan jadwal penerbangan Anda sebelum memulai perjalanan.*
+
+## Artikel Lainnya
+* [Travel Bandung ke Pangandaran](travel-bandung-pangandaran.md)
