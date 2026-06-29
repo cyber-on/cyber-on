@@ -30,4 +30,3 @@ Kami memberikan kemudahan akses bagi seluruh pelanggan. Anda bisa mendapatkan in
 * [Travel Bandung ke Bandara Soekarno-Hatta (CGK)](https://mahardhikatravel.com/travel-bandung-bandara/)
 * [Travel Bandung ke Pangandaran](https://mahardhikatravel.com/travel-bandung-pangandaran/)
 * [Travel Bandung ke Tangerang](https://mahardhikatravel.com/travel-bandung-tangerang/)
-* [Travel Bandung ke Bekasi](https://mahardhikatravel.com/travel-bandung-bekasi/)
